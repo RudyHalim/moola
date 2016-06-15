@@ -9,4 +9,3 @@ class RegisterController extends \Phalcon\Mvc\Controller
     }
 
 }
-
